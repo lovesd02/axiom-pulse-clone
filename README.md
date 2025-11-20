@@ -1,18 +1,31 @@
-# Axiom Pulse Clone
+# Axiom Pulse – Token Discovery UI (Clone)
 
-Pixel-perfect (ish) clone of Axiom Trade's token discovery table.
+A **replica** of Axiom Trade’s Pulse / token discovery page, built with a modern frontend stack and real-time simulation.
 
-## Stack
+---
 
-- Next.js 14 App Router
-- TypeScript (strict)
-- Tailwind CSS
-- Redux Toolkit (UI state)
-- React Query (data fetching)
-- WebSocket mock for real-time price updates
+## 🧠 Tech Stack
 
-## Getting started
+- **Next.js 14 (App Router)**
+- **TypeScript (Strict)**
+- **Tailwind CSS**
+- **Redux Toolkit**
+- **React Query**
+- **Radix UI / shadcn**
+- **WebSocket Mock (for real-time effect)**
+
+---
+
+## 📸 Preview
+
+> _Add screenshots here after deployment to Vercel_
+
+---
+
+## 💻 Local Setup
 
 ```bash
+git clone https://github.com/YOUR_USERNAME/axiom-pulse-clone.git
+cd axiom-pulse-clone
 npm install
 npm run dev
