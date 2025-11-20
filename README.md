@@ -23,7 +23,7 @@ A **replica** of Axiom Trade’s Pulse / token discovery page, built with a mode
 ![Desktop](./public/screenshots/Window.png)
 
 ### Sorting + Filters
-![Sorting](./public/screenshots/sort.png)
+![Sorting](./public/screenshots/Sort.png)
 
 ### Table Details Modal
 ![Modal](./public/screenshots/Table.png)
