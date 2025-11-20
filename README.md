@@ -18,7 +18,6 @@ A **replica** of Axiom Trade’s Pulse / token discovery page, built with a mode
 
 ## 📸 Preview
 
-
 ### Desktop View
 ![Desktop](./public/screenshots/Window.png)
 
@@ -27,6 +26,12 @@ A **replica** of Axiom Trade’s Pulse / token discovery page, built with a mode
 
 ### Table Details Modal
 ![Modal](./public/screenshots/Table.png)
+
+---
+
+## 🌍 Live Demo
+
+https://axiom-pulse-clone-3vcb0sjuq-loves-projects-f026b9aa.vercel.app/
 
 ---
 
