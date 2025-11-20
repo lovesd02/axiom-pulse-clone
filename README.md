@@ -18,14 +18,22 @@ A **replica** of Axiom Trade’s Pulse / token discovery page, built with a mode
 
 ## 📸 Preview
 
-> _Add screenshots here after deployment to Vercel_
+
+### Desktop View
+![Desktop](./public/screenshots/Window.png)
+
+### Sorting + Filters
+![Sorting](./public/screenshots/sort.png)
+
+### Table Details Modal
+![Modal](./public/screenshots/Table.png)
 
 ---
 
 ## 💻 Local Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/axiom-pulse-clone.git
+git clone https://github.com/lovesd02/axiom-pulse-clone.git
 cd axiom-pulse-clone
 npm install
 npm run dev
